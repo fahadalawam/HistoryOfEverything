@@ -12,7 +12,7 @@ The app was built with [Flutter](https://flutter.io/) by [2Dimensions](https://w
 
 Make sure you have Flutter installed on your local machine. For more instructions on how to install flutter, look [here](https://flutter.io/docs/get-started/install).
 ```
-git clone https://github.com/fahadalawam/HistoryOfEverything.git
+git clone https://github.com/fahadalawam/HistoryOfIslam.git
 cd HistoryOfEverything/app
 git submodule init
 git submodule update
